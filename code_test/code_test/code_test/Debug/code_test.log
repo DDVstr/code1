@@ -1,0 +1,7 @@
+﻿  code_test.cpp
+C:\Users\mrpoi\Desktop\code_test\code_test\code_test\code_test.cpp(168,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrpoi\Desktop\code_test\code_test\code_test\code_test.cpp(174,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpoi\Desktop\code_test\code_test\code_test\code_test.cpp(174,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpoi\Desktop\code_test\code_test\code_test\code_test.cpp(178,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrpoi\Desktop\code_test\code_test\code_test\code_test.cpp(178,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  code_test.vcxproj -> C:\Users\mrpoi\Desktop\code_test\code_test\Debug\code_test.exe
