@@ -43,7 +43,7 @@ double max(int *mass, int N )
 	return max; 
 }
 
-double average(float  sum, float count )
+double average(double  sum, double  count )
 
 {
 	float avr;
@@ -56,7 +56,7 @@ double average(float  sum, float count )
 
 }
 
-double percentile(float   count,float sum)
+double percentile(double  count,double sum)
 {
 	float  per;
 	float j=90 ;
@@ -152,8 +152,8 @@ int main()
 	int mass[N] = { 5,8,0,0,1,5,5,5,10,6 };
 
 	int i;
-	int  sum=0 ;
-	int  count = 0;
+	double  sum=0 ;
+	double   count = 0;
 
 	for (i = 0; i < 10; i++)
 	{
